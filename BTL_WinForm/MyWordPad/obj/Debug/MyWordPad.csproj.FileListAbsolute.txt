@@ -1,0 +1,14 @@
+D:\BTL_WinForm\MyWordPad\bin\Debug\MyWordPad.exe.config
+D:\BTL_WinForm\MyWordPad\bin\Debug\MyWordPad.exe
+D:\BTL_WinForm\MyWordPad\bin\Debug\MyWordPad.pdb
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.csproj.AssemblyReference.cache
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.csproj.SuggestedBindingRedirects.cache
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.WordPad.resources
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.Properties.Resources.resources
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.csproj.GenerateResource.cache
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.csproj.CoreCompileInputs.cache
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.exe
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.pdb
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.FindForm.resources
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.Replace.resources
+D:\BTL_WinForm\MyWordPad\obj\Debug\MyWordPad.DateAndTime.resources
